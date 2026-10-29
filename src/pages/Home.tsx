@@ -1,5 +1,5 @@
 import { motion, useReducedMotion } from 'framer-motion'
-import { ArrowDownRight, ArrowRight, ArrowUpRight, Play } from 'lucide-react'
+import { ArrowDownRight, ArrowUpRight, Play } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { campaignFormats, services } from '../data'
 import { CampaignCTA, Eyebrow, SectionHeading, TextLink } from '../components/Sections'
